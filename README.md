@@ -11,7 +11,7 @@ Each project showcases my skills as a Data Engineer, Data Analyst and Machine Le
 
 This project aims to explore and analyze the French real estate market in 2024, highlighting price differences between different areas based on factors such as tourism, economic conditions, and proximity to neighboring countries.  
 
-👉 [See the project here](https://github.com/ton-user/ton-repo/tree/projet-energie)
+👉 [See the project here](https://github.com/Gigique/FrenchRealEstateMarket)
 
 <h3>Technologies :</h3>
 
@@ -50,7 +50,7 @@ For this project, we used:
 
 Made on DataBricks, using Scala and PySpark, the goal was to analyse complex data in order to identify correlations between students and professors.  
 
-👉 [See the project here](https://github.com/ton-user/ton-repo/tree/projet-energie)
+👉 [See the project here](https://github.com/Gigique/ProjetScala/tree/main)
 
 <h3>Technologies :</h3>
 
