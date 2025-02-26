@@ -31,7 +31,7 @@ For this project, we used:
 This project aims to analyse and explain a student's chances to find a job based on several variables such as his gender, degree, city or financial aid.
 Then, based on thoses analysis, we try to predict his chances to find a job regarding his choices of study.
 
-👉 [See the project here](https://github.com/ton-user/ton-repo/tree/projet-energie)
+👉 [See the project here](https://github.com/Gigique/StatisticalAnalyse/tree/master)
 
 <h3>Technologies :</h3>
 
