@@ -72,6 +72,7 @@ The goal of this project was to analyze and predict the electrical consumption i
 Based on the data from 2016 to 2023, we use different types of Machine Learning and Deep Learning models to predict the consommation, based on weather conditions and seasonal trends.
 
 👉 [See the project here](https://github.com/Gigique/MachineLearning)
+👉 [See the app here](https://consommationapp.streamlit.app/)
 
 <h3>Technologies :</h3>
 
